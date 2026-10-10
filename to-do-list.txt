@@ -1,0 +1,5 @@
+1.attend workshop
+2.go to gym
+3.go to hostel
+4.eat
+5.sleep
